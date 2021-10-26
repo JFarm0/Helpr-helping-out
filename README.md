@@ -40,6 +40,9 @@ MySQL
 
 GitHub Version Control
 
+### Executing the program
+After copying code into your IDE, open up your database service. Once both are running, bootRun the project and point your browser to localhost:8080.
+
 <!-- ### What I'll Have to Learn
 At this juncture, we have several possible areas of increased learning. Creating various levels of user access and permissions is something that we have not been exposed to yet. Having the two main user groups with two-way searching is also a new area of possible development. Authentication options have not been determined yet, but there will be much to learn in that area.
 ### Project Tracker
