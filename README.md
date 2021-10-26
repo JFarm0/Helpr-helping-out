@@ -7,7 +7,7 @@
 ## Submission Instructions
  -->
 # Helpr
-This was the capstone project for LiftOff with LaunchCode that ran from July to September 2021. This was built with a team of four recent LaunchCode LC101 graduates.
+This was my capstone project for LiftOff with LaunchCode that ran from July to September 2021. This was built with three other LaunchCode LC101 graduates. The working title of the project was "helping out" which is what it will appear as in your IDE.
 
 ### Overview
 This project was designed to be an online portal in which non-profit organizations and interested volunteer candidates could search for one another based on shared interests. This two-way list feature would require users to register as an organization or an individual, create a profile with interests via a tagging system. As a registered user, organizations will update or delete their account as needed.
